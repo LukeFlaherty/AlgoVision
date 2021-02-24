@@ -1,6 +1,6 @@
-# EEs Visualizer
+# Algo Vision
 
-Try this App right here: [EEs Visualizer](https://ericechemane.github.io/EEs-Visualization-Tool/)
+Try it here: https://stoic-archimedes-8d1d73.netlify.app/ 
 
 ## Covered Path Finding Algorithms
 
@@ -8,7 +8,7 @@ Try this App right here: [EEs Visualizer](https://ericechemane.github.io/EEs-Vis
 - Depth First Search
 - Dijkstra's Algorithm
 
-## Covered Sorting Algorithms
+## Sorting Algorithms Included
 
 - Merge Sort
 - Quick Sort (Middle Element as the pivot)
@@ -18,7 +18,7 @@ Try this App right here: [EEs Visualizer](https://ericechemane.github.io/EEs-Vis
 - Selection Sort
 - Bubble Sort
 
-## Covered Searching Algorithms
+## Searching Algorithms Included
 
 - Linear Search
 - Binary Search
